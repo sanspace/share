@@ -1,3 +1,5 @@
 # C
 
 [Assert in the Hands of Bad Coders](http://blog.erratasec.com/2017/03/assert-in-hands-of-bad-coders.html#.WNpnhNIrLDc) - How not to use assert() in your code!
+
+[Having two functions with the same type and number of arguments in Java](https://barahilia.github.io/blog/computers/2017/03/26/impossible-java.html)
